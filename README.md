@@ -1,10 +1,3 @@
-# Linkin Park — Music Showcase
-
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-skjtspxh)
-
-A single-page web application that showcases Linkin Park's music catalogue with an interactive player, searchable track listing, album gallery, and band biography. Built as a fan-made tribute page.
-
----
 
 ## Table of Contents
 
